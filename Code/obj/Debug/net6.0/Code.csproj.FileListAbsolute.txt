@@ -1,0 +1,15 @@
+D:\GeekBrains\Итоговая контрольная\Code\bin\Debug\net6.0\Code.exe
+D:\GeekBrains\Итоговая контрольная\Code\bin\Debug\net6.0\Code.deps.json
+D:\GeekBrains\Итоговая контрольная\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+D:\GeekBrains\Итоговая контрольная\Code\bin\Debug\net6.0\Code.dll
+D:\GeekBrains\Итоговая контрольная\Code\bin\Debug\net6.0\Code.pdb
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\Code.dll
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\refint\Code.dll
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\Code.pdb
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
+D:\GeekBrains\Итоговая контрольная\Code\obj\Debug\net6.0\ref\Code.dll
